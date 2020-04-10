@@ -1,0 +1,6 @@
+# springcloudconfig
+data:
+  env: config-eureka-dev
+  user:
+    password: 1986
+    username: xiaoli
